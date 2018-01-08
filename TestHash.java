@@ -2,9 +2,9 @@
 package javaapplication13;
 import java.util.*;
 
-/**
- *
- * @author kp2442
+/*
+ * Pannawat1020
+ * Tatpiya1005
  */
 public class TestHash {
      public static void main(String[] args){

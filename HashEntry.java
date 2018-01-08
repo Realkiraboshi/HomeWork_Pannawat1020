@@ -5,9 +5,9 @@
  */
 package javaapplication13;
 
-/**
- *
- * @author kp2442
+/*
+ * Pannawat1020
+ * Tatpiya1005
  */
 public class HashEntry {
     private String key;

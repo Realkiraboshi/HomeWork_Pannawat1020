@@ -4,7 +4,10 @@
  * and open the template in the editor.
  */
 package javaapplication13;
-
+/*
+ * Pannawat1020
+ * Tatpiya1005
+ */
 import static com.sun.org.apache.xalan.internal.xsltc.compiler.util.Type.String;
 import java.util.Scanner;
 
@@ -69,10 +72,11 @@ public class HashTable {
         return hash;
     }
     public boolean checkKey(String key){
-    	
+    
         key=key.toLowerCase();
     	int index = this.getKeyIndex(key);
     	return table[index]==null;
+        
     }
     public void getEdit(String key,String value){
     	value.toLowerCase();
@@ -246,6 +250,7 @@ public class HashTable {
                 System.out.println("Can't choice");
                 displaymenu();
             }
+           
        }
        }
     public void displaymenu1(){
